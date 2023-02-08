@@ -3,12 +3,12 @@ A social media app having all features like creating a post, liking it , comment
 
 #Features
 
-Edit and Create a post,
-Liking a post,
-Comment and Reply on a post,
-Notification system,
-Chat functionality,
-Follow/Unfollow user,
-JWT login and Sign up,
+1.Edit and Create a post
+2.Liking a post
+3.Comment and Reply on a post
+4.Notification system
+5.Chat functionality
+6.Follow/Unfollow user
+7.JWT login and Sign up
 
 
